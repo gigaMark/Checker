@@ -1,1 +1,2 @@
-# Checker
+# I'm sercebit
+Python developer
